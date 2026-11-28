@@ -2,7 +2,7 @@ variable "cidr_block" {
     type = string
 }
 
-variable "project" {
+variable "project_name" {
     type = string
 }
 
